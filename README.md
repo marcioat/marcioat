@@ -24,7 +24,7 @@
   ##
  
 <div> 
-Software engineer with over 15 years of experience in web development using C# and ASP.NET. Focused on delivering robust and scalable solutions in the Azure ecosystem (App Services, SQL, Key Vault, OpenAI, Speech, Web Apps). Specialist in functional technical specifications (ETFs) and Statements of Work (SOWs), backend integration, and system automation. Enthusiast of NLP applied to technical documents, IoT projects with ESP8266 + Azure IoT Hub, and experienced in legacy environments (PHP, PostgreSQL, SAP PI/PO).
+Software engineer with over 15 years of experience in web development using C# and ASP.NET. Focused on delivering robust and scalable solutions in the Azure ecosystem (App Services, SQL, Key Vault, OpenAI, Speech, Web Apps). Specialist in functional technical specifications (ETFs) and Statements of Work (SOWs), backend integration, and system automation. Enthusiast of NLP applied to technical documents, IoT projects with Arduino, ESP8266 + Azure IoT Hub, and experienced in legacy environments (PHP, PostgreSQL, SAP PI/PO).
  <br>
   <span style="font-weight: bold;">Let's dive in programming world.</span>
 </div>
